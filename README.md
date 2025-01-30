@@ -26,4 +26,4 @@
 - **DELETE /api/quizzes/:id**: Delete a quiz by ID.
 
 ## API Documentation
-You can view the live API documentation powered by Swagger at the following URL once the server is running:- http://localhost:<PORT>/api-docs
+You can view the live API documentation powered by Swagger at the following URL once the server is running:- http://localhost:[port]/api-docs
